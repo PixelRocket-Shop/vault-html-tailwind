@@ -1,4 +1,4 @@
-# Vault - Tailwind CSS HTML Responsive Sass Landing Page Template
+# Vault - Tailwind CSS HTML Responsive Saas Landing Page Template
 
 ## Overview
 Unlock your website's potential with Vault - the ultimate Tailwind CSS HTML landing page template. With its sleek design and responsive layout, Vault is the perfect solution for businesses and individuals looking to make a lasting impression online. Featuring customizable HTML code and easy-to-use features such as customer testimonials, pricing table, and powerful call-to-action buttons, Vault is the key to unlocking your website's success.
