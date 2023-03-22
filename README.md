@@ -12,7 +12,6 @@ Unlock your website's potential with Vault - the ultimate Tailwind CSS HTML land
 
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
-- [Customise Template](#customise-template)
 - [Contact Me](#contact-me)
 
 
