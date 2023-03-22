@@ -3,9 +3,9 @@
 ## Overview
 Unlock your website's potential with Vault - the ultimate Tailwind CSS HTML landing page template. With its sleek design and responsive layout, Vault is the perfect solution for businesses and individuals looking to make a lasting impression online. Featuring customizable HTML code and easy-to-use features such as customer testimonials, pricing table, and powerful call-to-action buttons, Vault is the key to unlocking your website's success.
 
-<strong><a href="https://base-html-tailwind.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/base-html-tailwind/archive/main.zip">Download ZIP</a></strong>
+<strong><a href="https://vault-html-tailwind.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/vault-html-tailwind/archive/main.zip">Download ZIP</a></strong>
 
-![Tailwind CSS Responsive HTML Admin Panel Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/corporate-public/free-tailwind-admin-template-2.png "Base | Tailwind CSS Responsive HTML Admin Panel Template")
+![Tailwind CSS Responsive HTML Saas Landing Page Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/corporate-public/free-tailwind-saas-landing-page.jpg "Vault | Tailwind CSS Responsive HTML Saas Landing Page Template")
 
 
 ## Table of contents
