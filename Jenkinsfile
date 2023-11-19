@@ -10,7 +10,7 @@ pipeline {
             steps {
                 script {
                     // Run the chown command
-                    sh 'sudo chown -R 126:137 "/.npm"'
+                   sh 'chown -R 126:137 /.npm'
                 }
             }
         }
