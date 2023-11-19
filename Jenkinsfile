@@ -6,15 +6,6 @@ pipeline {
     }
 
     stages {
-        stage('Fix npm Cache Ownership') {
-            steps {
-                script {
-                    // Run the chown command
-                   sh 'chown -R 126:137 /.npm'
-                }
-            }
-        }
-
         stage('Install Dependencies') {
             steps {
                 script {
