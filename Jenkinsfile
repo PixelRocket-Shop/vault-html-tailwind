@@ -9,42 +9,41 @@ pipeline {
     }
 
     stages {
-        
-
         stage('Install Dependencies') {
             steps {
                 script {
-                    // Install Node.js dependencies
                     sh 'npm install'
                 }
             }
         }
 
-        stage('Run Dev Server') {
+        stage('Build') {
             steps {
                 script {
-                    // Run dev server with live preview
+                    sh 'npm run build'
+                }
+            }
+        }
+
+        stage('Run Local Test Version') {
+            steps {
+                script {
+                    // Assuming you have a script to start your application locally
                     sh 'npm start'
                 }
             }
         }
 
-        stage('Build for Production') {
-            steps {
-                script {
-                    // Make a production build
-                    sh 'npm run build'
-                }
-            }
-        }
+        // Add other stages as needed
+
     }
 
     post {
         success {
-            echo 'Pipeline succeeded! You may want to add additional steps or notifications here.'
+            echo 'Pipeline succeeded!'
         }
         failure {
-            echo 'Pipeline failed! You may want to handle failure scenarios here.'
+            echo 'Pipeline failed!'
         }
     }
 }
