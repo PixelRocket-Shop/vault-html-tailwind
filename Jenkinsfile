@@ -1,5 +1,9 @@
 pipeline {
-    agent any
+    agent {
+        docker {
+            image 'node:14' // Use the desired Node.js version
+        }
+    }
 
     stages {
         stage('Install Dependencies') {
