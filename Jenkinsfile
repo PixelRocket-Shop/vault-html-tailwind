@@ -29,7 +29,7 @@ pipeline {
             steps {
                 script {
                     // Assuming you have a script to start your application locally
-                    sh 'npm start'
+                    sh 'npm run watch'
                 }
             }
         }
