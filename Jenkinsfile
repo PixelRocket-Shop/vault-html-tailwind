@@ -24,7 +24,6 @@ pipeline {
             steps {
                 script {
                     // Run dev server with live preview
-                    sh 'npm run watch'
                     sh 'npm start'
                 }
             }
